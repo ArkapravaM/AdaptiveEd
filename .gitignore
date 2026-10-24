@@ -1,0 +1,15 @@
+# Python environment & cache venv/
+__pycache__/
+*.pyc
+
+# Local Vector Databases
+chroma_db/
+.chroma/
+
+#API Keys & Secrets
+.env
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
