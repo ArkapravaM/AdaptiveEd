@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 
 # Local Vector Databases
+venv/
 chroma_db/
 .chroma/
 
